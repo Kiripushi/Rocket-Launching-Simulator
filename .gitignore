@@ -1,0 +1,19 @@
+# Unreal Engine Standard Git Ignore
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+
+# Built data / architecture files
+.vscode/
+.vs/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mobile/Platform build caches
+/Build/
